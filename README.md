@@ -68,4 +68,22 @@ Currently, I don't have any public projects to showcase.
 
 ![MuhammadAnshad4167's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadAnshad4167&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadAnshad4167&layout=compact&theme=dark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadAnshad4167&theme=dark)](https://git.io/streak-stats)
+
+---
+
+## 💭 My Motto
+
+> *"Happiness is not a destination, it's a journey."*
+
+---
+
+## 🌌 Beyond Code
+
+✈️ **Travelling** | 🎮 **Gaming** | 🎬 **Movies**
+
+> *"Learning today. Building tomorrow."*
+
+🌟 *If you find my profile interesting, feel free to explore my repositories!*
+
 
